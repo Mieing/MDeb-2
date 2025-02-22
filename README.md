@@ -16,3 +16,9 @@ mdeb
 mdeb -tq
 ```
 - 自动解压，提取dylib到 `/var/mobile/Documents/Mdeb/dylib`
+
+***
+
+![Preview](https://github.com/Mieing/MDeb-2/blob/master/effect.jpg)
+
+***
